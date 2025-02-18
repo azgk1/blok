@@ -9,9 +9,9 @@
 ![Language](https://img.shields.io/badge/Language-Python-green?style=for-the-badge)
 
 # Index
-- [What is Blok? 💾](#What is Blok?💾)
-- [How to install? ❓](#How to install? ❓)
-- [I wannaaa helpp, How? 🥺](#I wannaaa helpp, How? 🥺)
+- [What is Blok? 💾](#What_is_Blok?_💾)
+- [How to install? ❓](#How_to_install?_❓)
+- [I wannaaa helpp, How? 🥺](#I_wannaaa_helpp,_How?_🥺)
 - [License](#License)
 
 # What is Blok? 💾
