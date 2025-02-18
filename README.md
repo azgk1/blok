@@ -9,10 +9,10 @@
 ![Language](https://img.shields.io/badge/Language-Python-green?style=for-the-badge)
 
 # Index
-- [What is Blok? 💾](# What is Blok?💾)
-- [How to install? ❓](# How to install? ❓)
-- [I wannaaa helpp, How? 🥺](# I wannaaa helpp, How? 🥺)
-- [License](# License)
+- [What is Blok? 💾](#What is Blok?💾)
+- [How to install? ❓](#How to install? ❓)
+- [I wannaaa helpp, How? 🥺](#I wannaaa helpp, How? 🥺)
+- [License](#License)
 
 # What is Blok? 💾
 <p>Blok is a simple yet powerful text editor built in Python, offering a clean interface and essential features for both beginners and experienced users.It focuses on a minimalistic design, providing a distraction-free writing experience with essential features like basic text editing, and a lightweight interface suitable for quick notes and simple documents.</p>
