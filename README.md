@@ -40,7 +40,8 @@ python3 main.py
 
 # License
 
-[GNU GPL V3.0](https://github.com/azGKRWPm/blok/blob/main/LICENSE)
+![GitHub License](https://img.shields.io/github/license/azGKRWPm/blok?style=flat-square)
+
 
 
 
