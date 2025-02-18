@@ -9,12 +9,12 @@
 ![Language](https://img.shields.io/badge/Language-Python-green?style=for-the-badge)
 
 # Index
-- [What is Blok? 💾](#What_is_Blok?_💾)
+- [What is Blok? 💾](#About_Blok)
 - [How to install? ❓](#How_to_install?_❓)
 - [I wannaaa helpp, How? 🥺](#I_wannaaa_helpp,_How?_🥺)
 - [License](#License)
 
-# What is Blok? 💾
+# About Blok
 <p>Blok is a simple yet powerful text editor built in Python, offering a clean interface and essential features for both beginners and experienced users.It focuses on a minimalistic design, providing a distraction-free writing experience with essential features like basic text editing, and a lightweight interface suitable for quick notes and simple documents.</p>
 
 ![GitHub Release](https://img.shields.io/github/v/release/azGKRWPm/blok?style=flat-square)
@@ -23,7 +23,7 @@
 > [!IMPORTANT]
 > Blok is currently in a dev/beta stage, it is not completely recommended for any productive activity.
 
-# How to install? ❓
+# Installation
 
 Go to [Releases](https://github.com/azGKRWPm/blok/releases).
 Extract the file to a desired directory.
@@ -34,7 +34,7 @@ Open up a command prompt / terminal window and type;
 ```bash
 python3 main.py
 ```
-# I wannaaa helpp, How? 🥺
+# Contributing
 
  Just DM me on discord and I will let you in on the project! (Discord: _xidajo)
 
