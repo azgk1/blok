@@ -17,7 +17,7 @@
 # About Blok
 <p>Blok is a simple yet powerful text editor built in Python, offering a clean interface and essential features for both beginners and experienced users.It focuses on a minimalistic design, providing a distraction-free writing experience with essential features like basic text editing, and a lightweight interface suitable for quick notes and simple documents.</p>
 
-![GitHub Release](https://img.shields.io/github/v/release/azGKRWPm/blok?style=flat-square)
+![GitHub Tag](https://img.shields.io/github/v/tag/azGKRWPm/blok?style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/azGKRWPm/blok?style=flat-square)
 
 > [!IMPORTANT]
