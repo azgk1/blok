@@ -10,7 +10,7 @@
 
 # Index
 - [What is Blok? 💾](#About-Blok)
-- [How to install? ❓](#Installation)
+- [How to install ❓](#Installation)
 - [I wannaaa helpp, How? 🥺](#Contributing)
 - [License](#License)
 
