@@ -3,9 +3,9 @@
   <h1 align="center">Blok - Simply edit.</h1>
 </p>
 
-![GitHub watchers](https://img.shields.io/github/watchers/azGKRWPm/blok?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/azGKRWPm/blok?style=for-the-badge)
-![GitHub Repo stars](badge#watchers)
+![GitHub watchers](https://img.shields.io/github/watchers/azGKRWPm/blok?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/azGKRWPm/blok?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # Index
