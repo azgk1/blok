@@ -15,7 +15,7 @@
 - [License](#License)
 
 # About Blok
-<p>Blok is a multipurpose tool built in Python that combines a simple image viewer and text editor in one application. It features a clean, minimalistic interfac, essential writing and editing features and the image viewer allows for basic image browsing capabilities. With its lightweight design, Blok is ideal for users who want a straightforward tool for handling both text documents and images without unnecessary complexity.</p>
+<p>Blok is a multipurpose tool built in Python that combines a simple image viewer and text editor in one application. It features a clean, minimalistic interface, essential writing and editing features and the image viewer allows for basic image browsing capabilities. With its lightweight design, Blok is ideal for users who want a straightforward tool for handling both text documents and images without unnecessary complexity.</p>
 
 ![GitHub Tag](https://img.shields.io/github/v/tag/azGKRWPm/blok?style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/azGKRWPm/blok?style=flat-square)
